@@ -1,0 +1,15 @@
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.csproj.AssemblyReference.cache
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.AssemblyInfoInputs.cache
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.AssemblyInfo.cs
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.csproj.CoreCompileInputs.cache
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\bin\Debug\net6.0\Seminar_dz1.exe
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\bin\Debug\net6.0\Seminar_dz1.deps.json
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\bin\Debug\net6.0\Seminar_dz1.runtimeconfig.json
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\bin\Debug\net6.0\Seminar_dz1.dll
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\bin\Debug\net6.0\Seminar_dz1.pdb
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.dll
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\refint\Seminar_dz1.dll
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.pdb
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\Seminar_dz1.genruntimeconfig.cache
+D:\СВЕТА\Обучение\Data Science\Языки программирования\C#\Seminar_dz1\obj\Debug\net6.0\ref\Seminar_dz1.dll
